@@ -3,7 +3,7 @@ const Job = require("./Job.model");
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const fs = require("fs");
+// const fs = require("fs");
 
 app.use(cors());
 
@@ -17,30 +17,30 @@ const corsOptions = {
 initializeDB();
 
 
-const jsonData = fs.readFileSync("./job.json", "utf-8");
-const jobs = JSON.parse(jsonData);
+// const jsonData = fs.readFileSync("./job.json", "utf-8");
+// const jobs = JSON.parse(jsonData);
 
-function seedData(){
-    try{
-        for(const job of jobs ){
-            const newJob = new Job ({
-                title: job.title,
-                companyName: job.companyName,
-                location: job.location,
-                salary: job.salary,
-                jobType: job.jobType,
-                jobDescription: job.jobDescription,
-                qualifications: job.qualifications
-            });
-            console.log(newJob.title);
-            newJob.save();
-        }
-    } catch(error){
-        console.log("Error in seeding data", error);
-    }
-}
+// function seedData(){
+//     try{
+//         for(const job of jobs ){
+//             const newJob = new Job ({
+//                 title: job.title,
+//                 companyName: job.companyName,
+//                 location: job.location,
+//                 salary: job.salary,
+//                 jobType: job.jobType,
+//                 jobDescription: job.jobDescription,
+//                 qualifications: job.qualifications
+//             });
+//             console.log(newJob.title);
+//             newJob.save();
+//         }
+//     } catch(error){
+//         console.log("Error in seeding data", error);
+//     }
+// }
 
-// seedData();
+// // seedData();
 
 
 
