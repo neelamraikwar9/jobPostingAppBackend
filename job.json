@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Software Engineer",
+    "companyName": "Trendex Solutions",
+    "location": "Bangalore, India",
+    "salary": 1500000,
+    "jobType": "Full-time (On-site)",
+    "jobDescription": "Design, develop, and maintain web applications. Collaborate with cross-functional teams to deliver high-quality products.",
+    "qualifications": "B.Tech in Computer Science, 2+ years experience with React and Node.js"
+  },
+  {
+    "title": "Data Analyst",
+    "companyName": "InsightCorp",
+    "location": "Hyderabad, India",
+    "salary": 100000,
+    "jobType": "Part-time (On-site)",
+    "jobDescription": "Analyze datasets to discover patterns and actionable insights for the business. Prepare visualizations and reports for management.",
+    "qualifications": "Bachelor's in Statistics or related field, Proficiency in SQL and Power BI"
+  },
+  {
+    "title": "Marketing Manager",
+    "companyName": "MarketMinds",
+    "location": "Mumbai, India",
+    "salary": 2000000,
+    "jobType": "Full-time (Remote)",
+    "jobDescription": "Lead marketing campaigns, manage budgets, and oversee content strategy to increase brand presence.",
+    "qualifications": "MBA in Marketing, 5+ years experience in consumer marketing"
+  },
+  {
+    "title": "UX Designer",
+    "companyName": "Designify",
+    "location": "Pune, India",
+    "salary": 120000,
+    "jobType": "Part-time (Remote)",
+    "jobDescription": "Create user-friendly interfaces, conduct usability testing, and support the product team with design assets.",
+    "qualifications": "Degree in Design or relevant field, Portfolio showcasing web/mobile designs"
+  },
+  {
+    "title": "Sales Executive",
+    "companyName": "GammaTech",
+    "location": "Chennai, India",
+    "salary": 1400000,
+    "jobType": "Full-time (On-site)",
+    "jobDescription": "Drive sales for tech solutions, build client relationships, and achieve quarterly targets.",
+    "qualifications": "Bachelor's degree, Strong communication skills, Previous sales experience"
+  },
+  {
+    "title": "HR Coordinator",
+    "companyName": "PeopleFirst",
+    "location": "Gurugram, India",
+    "salary": 850000,
+    "jobType": "Full-time (Remote)",
+    "jobDescription": "Support talent acquisition, onboard new employees, and manage HR documentation.",
+    "qualifications": "Diploma/degree in HR, Familiarity with HR software"
+  },
+  {
+    "title": "Product Manager",
+    "companyName": "Innoventive Ltd.",
+    "location": "Noida, India",
+    "salary": 2200000,
+    "jobType": "Full-time (On-site)",
+    "jobDescription": "Define product vision, plan releases, and coordinate between engineering and business teams.",
+    "qualifications": "Bachelor's in Engineering, 3+ years PM experience"
+  },
+  {
+    "title": "Cybersecurity Specialist",
+    "companyName": "SecureWorks",
+    "location": "Remote - India",
+    "salary": 2500000,
+    "jobType": "Full-time (Remote)",
+    "jobDescription": "Monitor network security, respond to incidents, and implement best cybersecurity practices.",
+    "qualifications": "Certification in Cybersecurity, 4+ years of relevant experience"
+  }
+]
